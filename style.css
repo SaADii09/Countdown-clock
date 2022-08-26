@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #282612;
+    color: #fffbf0;
+    text-align: center;
+}
+.abc1{
+    margin-bottom: 50px;
+}
+
+.body1{
+    display: flex;
+    position: absolute;
+    left: 40%;
+}
+body{
+    width: 100%;
+}
+
+p {
+    margin: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+    font-size: 60px;
+    border : solid 3px #943d24 ;
+    border-radius: 10px;
+    background-color:#2d2d2d ;
+}
+
+span{
+    font-size: 20px;
+}
+
+/*
+#e4ddf4 
+#943d24 
+#fffbf0*/
